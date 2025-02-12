@@ -1,4 +1,4 @@
-# Introduction to Mobile Development
+# This Repository will be used for CIS 2203 Mobile Development
 
 ## What is Mobile Development?
 Mobile development refers to the process of creating applications for mobile devices such as smartphones and tablets. These applications can be designed for different platforms, primarily:
