@@ -1,0 +1,14 @@
+/Users/xander/Documents/Codes/C#/CardGame/bin/Debug/net9.0/CardGame
+/Users/xander/Documents/Codes/C#/CardGame/bin/Debug/net9.0/CardGame.deps.json
+/Users/xander/Documents/Codes/C#/CardGame/bin/Debug/net9.0/CardGame.runtimeconfig.json
+/Users/xander/Documents/Codes/C#/CardGame/bin/Debug/net9.0/CardGame.dll
+/Users/xander/Documents/Codes/C#/CardGame/bin/Debug/net9.0/CardGame.pdb
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.AssemblyInfoInputs.cache
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.AssemblyInfo.cs
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.csproj.CoreCompileInputs.cache
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.dll
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/refint/CardGame.dll
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.pdb
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/CardGame.genruntimeconfig.cache
+/Users/xander/Documents/Codes/C#/CardGame/obj/Debug/net9.0/ref/CardGame.dll
